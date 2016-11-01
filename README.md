@@ -1,2 +1,2 @@
-# guava-learn
-keep calm and code guava
+# Personal Java Code Board
+keep calm and code java :-)
