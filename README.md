@@ -2,10 +2,12 @@
 keep calm and code java :-)
 --------------------------------
 
-### rmi
+- rmi
 
-### net
+- net
 
-### guava
+- guava
 
-### spi (Serivce provide interface)
+- spi (Serivce provide interface)
+
+- json (jackson serialization)
